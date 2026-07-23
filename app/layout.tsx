@@ -6,7 +6,7 @@ import { AuthProvider } from '@/lib/auth-context';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'FitForge AI — Your Personal AI Fitness Coach',
+  title: 'snack2sixpack — Your Personal AI Fitness Coach will guide you',
   description:
     'Get personalized workouts, nutrition plans, and AI guidance designed around your body, goals, and lifestyle.',
 };

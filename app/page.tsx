@@ -76,7 +76,7 @@ const testimonials = [
   {
     name: 'Arjun Mehta',
     role: 'Lost 12kg in 4 months',
-    text: 'FitForge AI completely changed how I train. The AI workout plans adapted as I got stronger, and the meal plans fit my Indian vegetarian diet perfectly.',
+    text: 'snack2sixpack completely changed how I train. The AI workout plans adapted as I got stronger, and the meal plans fit my Indian vegetarian diet perfectly.',
     avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=200',
   },
   {
@@ -131,7 +131,7 @@ export default function LandingPage() {
             <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-primary">
               <Dumbbell className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold">FitForge<span className="text-primary">AI</span></span>
+            <span className="text-xl font-bold">snack2<span className="text-primary">sixpack</span></span>
           </Link>
           <div className="hidden items-center gap-8 md:flex">
             <Link href="/#features" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Features</Link>
@@ -341,9 +341,9 @@ export default function LandingPage() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
                 <Dumbbell className="h-4 w-4 text-primary-foreground" />
               </div>
-              <span className="font-bold">FitForge<span className="text-primary">AI</span></span>
+              <span className="font-bold">snack2<span className="text-primary">sixpack</span></span>
             </div>
-            <p className="text-sm text-muted-foreground">© 2026 FitForge AI. All rights reserved.</p>
+            <p className="text-sm text-muted-foreground">© 2026 snack2sixpack. All rights reserved.</p>
           </div>
         </div>
       </footer>

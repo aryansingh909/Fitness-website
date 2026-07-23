@@ -60,7 +60,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
             <Dumbbell className="h-4 w-4 text-primary-foreground" />
           </div>
-          <span className="font-bold">FitForge<span className="text-primary">AI</span></span>
+          <span className="font-bold">snack2<span className="text-primary">sixpack</span></span>
         </Link>
         <button onClick={() => setSidebarOpen(!sidebarOpen)}>
           {sidebarOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
@@ -74,7 +74,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
             <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-primary">
               <Dumbbell className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-lg font-bold">FitForge<span className="text-primary">AI</span></span>
+            <span className="text-lg font-bold">snack2<span className="text-primary">sixpack</span></span>
           </Link>
           <nav className="flex-1 space-y-1">
             {navItems.map((item) => {

@@ -1,5 +1,5 @@
 /*
-# FitForge AI — Fitness Coach SaaS Schema
+# snack2sixpack — Fitness Coach SaaS Schema
 
 1. Overview
 - Multi-user app with email auth. Each user owns their profile, workouts, meals, progress, chat messages, achievements, and subscription.
